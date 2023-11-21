@@ -1,4 +1,4 @@
 # OrbánVPN v2
-a programot eredetileg (sonka"https://github.com/sonkadev") csinálta
+a programot eredetileg <a href="https://github.com/sonkadev">sonka</a> csinálta
 
 
